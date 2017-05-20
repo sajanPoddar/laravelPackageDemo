@@ -1,0 +1,6 @@
+{
+    "name": "sajan/calculator",
+    "description": "this is the demo create package",
+    "minimum-stability": "dev",
+    "require": {}
+}
